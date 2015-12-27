@@ -1,3 +1,2 @@
 # datasciencecoursera
-The Data Scientist’s Toolbox Course
-Course Project´s repo
+The Data Scientist’s Toolbox Course Project´s repo
